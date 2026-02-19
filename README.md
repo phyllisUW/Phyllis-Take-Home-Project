@@ -1,5 +1,9 @@
 # Phyllis-Take-Home-Project-
 
+My scripts for creating cleaned csv file for feature engineering and modeling are in the preprocessing notebook. All data used is in the \data folder. 
+
+The [Report](./Report.md) file goes over details on why I chose the specific procedure for data preprocessing, feature analysis, and algorithms used.
+
 I used Anaconda to run my data preprocessing, feature engineering, and modeling in jupyter notebooks.
 
 To run this, navigate to Anaconda Prompt. 
