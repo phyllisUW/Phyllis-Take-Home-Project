@@ -21,3 +21,15 @@ For Completing feature engineering & building Random Forest Classifier & Kmeans 
 - Run the first 2 cells in the notebook to install the necessary packages and imports.
 - Follow the instructions in the notebook to proceed with data preprocessing, feature engineering, and modeling.
 
+
+NOTE:
+Without anaconda installed prior, it may be necessary to make a new conda environment and install these packages:
+
+conda create -n census_income python=3.10 -y
+
+conda activate census_income
+
+conda install -y numpy pandas scikit-learn matplotlib seaborn jupyter scipy
+
+jupyter notebook
+

@@ -117,9 +117,12 @@ Bringing back the y label, I compute the share of >50K earners per cluster and i
 I can see that different segments of clusters differ in high income distributions, which means for marketing purposes I can prioritize marketing to profiles in clusters with higher >50K concentration. I can base this and build it off of the previous classification model, and use both of these for identifying income levels and predicting income levels based on demographic data, and then using these clusters to direct different marketing profiles to clusters of relevant profiles.
 
 
-References:
+# References:
 
-https://forum.ipums.org/t/what-does-universe-mean-in-the-variable-descriptions/85 
-https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
-https://www.geeksforgeeks.org/machine-learning/elbow-method-for-optimal-value-of-k-in-kmeans/
-https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
+- https://forum.ipums.org/t/what-does-universe-mean-in-the-variable-descriptions/85 
+
+- https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
+
+- https://www.geeksforgeeks.org/machine-learning/elbow-method-for-optimal-value-of-k-in-kmeans/
+
+- https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
